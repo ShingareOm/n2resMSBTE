@@ -3,7 +3,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/ShingareOm/n2resMSBTE?style=flat-square)](https://github.com/ShingareOm/n2resMSBTE/issues)
 [![GitHub license](https://img.shields.io/github/license/ShingareOm/n2resMSBTE?style=flat-square)](https://github.com/ShingareOm/n2resMSBTE/blob/main/LICENSE)
 
-## Automating Result Notifications with Cron and Curl With Om Shingare
+## Automating Result Notifications with Cron and Curl By Om Shingare
 
 ### Result Notifier
 ![Workflow](/banner.png)
