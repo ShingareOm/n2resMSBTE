@@ -4,8 +4,7 @@
 [![GitHub license](https://img.shields.io/github/license/ShingareOm/n2resMSBTE?style=flat-square)](https://github.com/ShingareOm/n2resMSBTE/blob/main/LICENSE)
 
 ## Automating Result Notifications with Cron and Curl By Om Shingare
-
-#![Workflow](/workflow.png)
+![](/banner.png)
 
 ## Table of Contents
 1. [Workflow Diagram](#workflow-diagram)
