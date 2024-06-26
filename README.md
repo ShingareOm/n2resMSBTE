@@ -3,7 +3,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/ShingareOm/n2resMSBTE?style=flat-square)](https://github.com/ShingareOm/n2resMSBTE/issues)
 [![GitHub license](https://img.shields.io/github/license/ShingareOm/n2resMSBTE?style=flat-square)](https://github.com/ShingareOm/n2resMSBTE/blob/main/LICENSE)
 
-## Blog Post: Automating Result Notifications with Cron and Curl
+## Automating Result Notifications with Cron and Curl With Om Shingare
 
 ### Result Notifier
 ![Workflow](/banner.png)
@@ -81,7 +81,8 @@ Ensure your cron job is set to run check_result.sh every minute. Edit your cront
 
 ### For Android: Using Third-Party Tools
 You can use tools like Uptime Robot to monitor the webpage and send notifications to your Android device. Here's a video demonstrating how to set up the monitor:
-[![Uptime Robot Tutorial](/banner.png)](/demo.mp4)
+
+[![Uptime Robot Tutorial](/banner.png)](https://github.com/ShingareOm/n2resMSBTE/assets/109802903/bb524b53-aa9e-452d-982a-6fe2a990ec21)
 
 Website: [Uptime Robot](https://uptimerobot.com)
 Author: Om Shingare (<a href="https://in.linkedin.com/in/shingareom">Om Shingare</a>)
