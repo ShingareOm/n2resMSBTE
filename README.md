@@ -49,7 +49,7 @@ curl -s "$URL" > "$TEMP_FILE"
 
 if grep -q "$SEARCH_TEXT" "$TEMP_FILE"; then
     DATE="$(date +'%d.%b.%Y -- %H:%M')"
-    MESSAGE="<b>Om Shingare</b> your tool is working fine, current time is: <b>$DATE</b>"
+    MESSAGE="<b>Bro</b>, your MSBTE Result is out at : <b>$DATE</b>"
     send_telegram_message "$MESSAGE"
 fi
 rm "$TEMP_FILE"
