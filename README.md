@@ -5,9 +5,6 @@
 
 ## Automating Result Notifications with Cron and Curl By Om Shingare
 
-### Result Notifier
-![Workflow](/banner.png)
-
 ### Table of Contents
 1. [Workflow Diagram](#workflow-diagram)
 2. [What is Curl?](#what-is-curl)
