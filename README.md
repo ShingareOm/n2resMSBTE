@@ -84,5 +84,11 @@ You can use tools like Uptime Robot to monitor the webpage and send notification
 
 [![Uptime Robot Tutorial](/banner.png)](https://github.com/ShingareOm/n2resMSBTE/assets/109802903/bb524b53-aa9e-452d-982a-6fe2a990ec21)
 
-Website: [Uptime Robot](https://uptimerobot.com)
+Website: [Uptime Robot](https://uptimerobot.com), After that you can simply login into the android application for update.
+
+<ul>
+<li><strong><a href="https://itunes.apple.com/us/app/uptime-robot-app/id1104878581">for iPhone</a></strong></li>
+<li><strong><a href="https://play.google.com/store/apps/details?id=com.uptimerobot">for Android</a></strong></li>
+</ul>
+
 Author: Om Shingare (<a href="https://in.linkedin.com/in/shingareom">Om Shingare</a>)
